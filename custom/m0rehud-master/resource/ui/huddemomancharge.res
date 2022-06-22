@@ -1,0 +1,63 @@
+"Resource/UI/HudDemomanCharge.res"
+{	
+
+	"Cannon1"
+	{
+		"ControlName"           					"ImagePanel"
+		"fieldName"              					"Cannon1"
+		"xpos"                   					"cs-3.4"
+		"ypos"                   					"r195"
+		"zpos"                   					"3"
+		"wide"	          		   					"20"
+		"tall"                   					"4"
+		"visible"                					"1"
+		"enabled"                					"1"
+		"fillcolor"              					"0 255 0 155"
+	}
+	"Cannon2"
+	{
+		"ControlName"           					"ImagePanel"
+		"fieldName"              					"Cannon2"
+		"xpos"                   					"cs-1.15"
+		"ypos"                   					"r195"
+		"zpos"                   					"3"
+		"wide"	          		   					"28"
+		"tall"                   					"4"
+		"visible"                					"1"
+		"enabled"                					"1"
+		"fillcolor"              					"255 125 0 155"
+	}
+	"Cannon3"
+	{
+		"ControlName"           					"ImagePanel"
+		"fieldName"              					"Cannon3"
+		"xpos"                   					"cs1.75"
+		"ypos"                   					"r195"
+		"zpos"                   					"3"
+		"wide"	          		   					"20"
+		"tall"                   					"4"
+		"visible"                					"1"
+		"enabled"                					"1"
+		"fillcolor"              					"255 0 0 155"
+	}
+	"ChargeMeter"
+	{	
+		"ControlName"								"ContinuousProgressBar"
+		"fieldName"									"ChargeMeter"
+		"font"										"Default"
+		"xpos"										"cs-0.5"
+		"ypos"										"r195"
+		"zpos"										"2"
+		"wide"										"140"
+		"tall"										"4"				
+		"autoResize"								"0"
+		"pinCorner"									"0"
+		"visible"									"1"
+		"enabled"									"1"
+		"textAlignment"								"Left"
+		"dulltext"									"0"
+		"brighttext"								"0"
+		"fgcolor_override"							"White"
+		"proportionaltoparent"						"1"
+	}					
+}
