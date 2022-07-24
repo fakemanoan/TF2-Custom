@@ -5,5 +5,6 @@ Loadout switcher (keeps loadout slot on even between game relaunches)
 https://github.com/jooonior/tf2-loadouts-script
 
 <br>
-Omni Respawn Bind (Optimal Respawn Bind v2)
+Omni Respawn Bind (Optimal Respawn Bind v2)<br>
+https://github.com/ldesgoui/tf2-custom/tree/master/omni-respawn-bind
 Ldesgui (twiikuu)
